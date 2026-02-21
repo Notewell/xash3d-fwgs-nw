@@ -1,0 +1,5 @@
+O:
+cd O:\Projects\deeducation\enginesrc
+waf configure --sdl2=C:\SDL\
+waf build
+waf install --destdir=O:\Projects\deeducation

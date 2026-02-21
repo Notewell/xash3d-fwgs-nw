@@ -20,8 +20,8 @@
 #define VER_ANSICP
 
 #define VER_FILEDESCRIPTION_STR		"Xash3D FWGS Launcher"
-#define VER_ORIGINALFILENAME_STR	"xash.exe"
-#define VER_INTERNALNAME_STR		"xash"
+#define VER_ORIGINALFILENAME_STR	"deeducation.exe"
+#define VER_INTERNALNAME_STR		"deeducation"
 
 #include <common.ver>
 
